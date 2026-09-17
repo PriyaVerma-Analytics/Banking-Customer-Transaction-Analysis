@@ -20,9 +20,9 @@ The analysis provides data-driven insights into banking operations and customer 
 
 The project uses three CSV files:
 
-- `customer_data.csv` — Customer information such as age, customer type, city, region, bank, and branch.
-- `transaction_data.csv` — Transaction, account balance, investment, and transaction date information.
-- `bank_data.csv` — Branch-level revenue, expenses, and profit margin information.
+- `customer_data.xls` — Customer information such as age, customer type, city, region, bank, and branch.
+- `transaction_data.xls` — Transaction, account balance, investment, and transaction date information.
+- `bank_data.xls` — Branch-level revenue, expenses, and profit margin information.
 
 ### Dataset Size
 
